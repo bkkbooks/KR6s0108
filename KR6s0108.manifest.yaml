@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6s0108/v1
+canonical_location: https://kanripo.org/bkk/KR6s0108/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 根本大和尚真跡策子等目錄
+  identifiers:
+    alt_id:
+    - T55n2162
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2162.xml
+    old_id: T55n2162
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0108_000.yaml, hash: 'sha256:d8f196b0370a2a9b4bc7dbf093bc7530c1606ba8b8b00dc4de4bc66a720703b3'}
+  - {seq: 1, filename: KR6s0108_001.yaml, hash: 'sha256:c86099ef00a4f2b15d3313e7bf7d91211d56d2b18ed7daee4b8ddcd96c0e4af9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0108_001.markers.yaml, hash: 'sha256:c6c1d95129f7154ca05d07ddfa03845ce9241e4eaceae282ea0e04acb5500953'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0108_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2902
+  label: 根本大和尚真跡策子等目錄
+  type: juan
+  level: 1
+hash: sha256:f2c74948114a798058a81d13aa85b7a6b28f003a3a9222dd3c8ae7b034548c83
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

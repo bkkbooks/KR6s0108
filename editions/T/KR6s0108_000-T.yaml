@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0108/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 根本大和尚真跡策子等目錄
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2162.xml
+    old_id: T55n2162
+hash: sha256:d8f196b0370a2a9b4bc7dbf093bc7530c1606ba8b8b00dc4de4bc66a720703b3
