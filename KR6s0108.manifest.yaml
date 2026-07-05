@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0108_000.yaml, hash: 'sha256:d8f196b0370a2a9b4bc7dbf093bc7530c1606ba8b8b00dc4de4bc66a720703b3'}
-  - {seq: 1, filename: KR6s0108_001.yaml, hash: 'sha256:c86099ef00a4f2b15d3313e7bf7d91211d56d2b18ed7daee4b8ddcd96c0e4af9'}
+  - {seq: 1, filename: KR6s0108_001.yaml, hash: 'sha256:3aa70f58d9b465ce668f1b64da4e00763269a8b1bd2313dfd0980e752c403830'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0108_001.markers.yaml, hash: 'sha256:c6c1d95129f7154ca05d07ddfa03845ce9241e4eaceae282ea0e04acb5500953'}
+  - {seq: 0, role: markers, filename: assets/KR6s0108_000.markers.yaml, hash: 'sha256:11808005a0690a42bc185525bcddde327e25480569858bd7a95e57a1d082b344'}
+  - {seq: 1, role: markers, filename: assets/KR6s0108_001.markers.yaml, hash: 'sha256:dac21f3cae88ce3f69d1368217e0fbbbb83e748680ddbd112657a4c8a4a31d64'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 根本大和尚真跡策子等目錄
   type: juan
   level: 1
-hash: sha256:f2c74948114a798058a81d13aa85b7a6b28f003a3a9222dd3c8ae7b034548c83
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:be563069b3ac1b6360aa32bbc54362efe19604af3c0e121f0b6410c859ff0504
